@@ -1,0 +1,2 @@
+swingspinnerdemo.SwingSpinnerDemo
+swingspinnerdemo.MyFrame
